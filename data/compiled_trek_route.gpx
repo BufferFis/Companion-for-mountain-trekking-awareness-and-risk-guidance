@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="MountainSafetyCompanion" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="27.47207" lon="85.90001"><ele>1991.0</ele><name>HAZARD_1_TRANSPORT</name><desc>Radius 60.0m Azimuth 152.7deg Risk 0.9</desc></wpt>
+  <wpt lat="27.47342" lon="85.90001"><ele>2036.4</ele><name>HAZARD_2_TRANSPORT</name><desc>Radius 60.0m Azimuth 141.1deg Risk 0.9</desc></wpt>
+  <wpt lat="27.47476" lon="85.90145"><ele>2042.2</ele><name>HAZARD_3_TRANSPORT</name><desc>Radius 60.0m Azimuth 137.7deg Risk 0.9</desc></wpt>
+  <wpt lat="27.47611" lon="85.90145"><ele>2086.5</ele><name>HAZARD_4_TRANSPORT</name><desc>Radius 60.0m Azimuth 138.3deg Risk 0.9</desc></wpt>
+  <wpt lat="27.47611" lon="85.90289"><ele>2051.8</ele><name>HAZARD_5_TRANSPORT</name><desc>Radius 60.0m Azimuth 144.0deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48284" lon="85.91008"><ele>1970.1</ele><name>HAZARD_6_TRANSPORT</name><desc>Radius 60.0m Azimuth 106.2deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48284" lon="85.91152"><ele>1918.6</ele><name>HAZARD_7_TRANSPORT</name><desc>Radius 60.0m Azimuth 112.0deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48418" lon="85.91296"><ele>1898.7</ele><name>HAZARD_8_TRANSPORT</name><desc>Radius 60.0m Azimuth 125.7deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48418" lon="85.9144"><ele>1853.0</ele><name>HAZARD_9_INITIATION</name><desc>Radius 90.0m Azimuth 129.7deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48553" lon="85.89713"><ele>2056.3</ele><name>HAZARD_10_TRANSPORT</name><desc>Radius 60.0m Azimuth 354.7deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48687" lon="85.89713"><ele>2006.7</ele><name>HAZARD_11_TRANSPORT</name><desc>Radius 60.0m Azimuth 355.9deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48687" lon="85.89857"><ele>2011.5</ele><name>HAZARD_12_TRANSPORT</name><desc>Radius 60.0m Azimuth 353.2deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48822" lon="85.89857"><ele>1961.0</ele><name>HAZARD_13_TRANSPORT</name><desc>Radius 60.0m Azimuth 355.1deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48822" lon="85.90001"><ele>1966.0</ele><name>HAZARD_14_TRANSPORT</name><desc>Radius 60.0m Azimuth 352.9deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48822" lon="85.90145"><ele>1973.0</ele><name>HAZARD_15_TRANSPORT</name><desc>Radius 60.0m Azimuth 350.6deg Risk 0.9</desc></wpt>
+  <wpt lat="27.48822" lon="85.90289"><ele>1982.0</ele><name>HAZARD_16_TRANSPORT</name><desc>Radius 60.0m Azimuth 347.8deg Risk 0.9</desc></wpt>
+  <wpt lat="27.4936" lon="85.9072"><ele>1931.0</ele><name>HAZARD_17_TRANSPORT</name><desc>Radius 60.0m Azimuth 282.6deg Risk 0.9</desc></wpt>
+  <wpt lat="27.4936" lon="85.90576"><ele>1887.8</ele><name>HAZARD_18_TRANSPORT</name><desc>Radius 60.0m Azimuth 288.2deg Risk 0.9</desc></wpt>
+  <wpt lat="27.49226" lon="85.90432"><ele>1875.3</ele><name>HAZARD_19_TRANSPORT</name><desc>Radius 60.0m Azimuth 314.5deg Risk 0.9</desc></wpt>
+  <wpt lat="27.4936" lon="85.90864"><ele>1978.1</ele><name>HAZARD_20_TRANSPORT</name><desc>Radius 60.0m Azimuth 277.8deg Risk 0.9</desc></wpt>
+  <wpt lat="27.49495" lon="85.9072"><ele>1925.2</ele><name>HAZARD_21_TRANSPORT</name><desc>Radius 60.0m Azimuth 276.8deg Risk 0.9</desc></wpt>
+  <wpt lat="27.49495" lon="85.90576"><ele>1880.4</ele><name>HAZARD_22_TRANSPORT</name><desc>Radius 60.0m Azimuth 279.8deg Risk 0.9</desc></wpt>
+  <wpt lat="27.49495" lon="85.90864"><ele>1974.2</ele><name>HAZARD_23_TRANSPORT</name><desc>Radius 60.0m Azimuth 274.2deg Risk 0.9</desc></wpt>
+  <wpt lat="27.46669" lon="85.89857"><ele>1766.6</ele><name>HAZARD_24_INITIATION</name><desc>Radius 90.0m Azimuth 228.3deg Risk 0.89</desc></wpt>
+  <wpt lat="27.46669" lon="85.90001"><ele>1829.5</ele><name>HAZARD_25_INITIATION</name><desc>Radius 90.0m Azimuth 242.5deg Risk 0.89</desc></wpt>
+  <wpt lat="27.46804" lon="85.89857"><ele>1822.8</ele><name>HAZARD_26_INITIATION</name><desc>Radius 90.0m Azimuth 213.8deg Risk 0.89</desc></wpt>
+  <wpt lat="27.46804" lon="85.90001"><ele>1866.8</ele><name>HAZARD_27_INITIATION</name><desc>Radius 90.0m Azimuth 232.1deg Risk 0.89</desc></wpt>
+  <wpt lat="27.46938" lon="85.89569"><ele>1866.1</ele><name>HAZARD_28_INITIATION</name><desc>Radius 90.0m Azimuth 183.5deg Risk 0.89</desc></wpt>
+  <wpt lat="27.46938" lon="85.89713"><ele>1871.3</ele><name>HAZARD_29_INITIATION</name><desc>Radius 90.0m Azimuth 187.1deg Risk 0.89</desc></wpt>
+  <wpt lat="27.46938" lon="85.89857"><ele>1885.4</ele><name>HAZARD_30_INITIATION</name><desc>Radius 90.0m Azimuth 196.1deg Risk 0.89</desc></wpt>
+  <wpt lat="27.47073" lon="85.92015"><ele>1819.8</ele><name>HAZARD_31_INITIATION</name><desc>Radius 90.0m Azimuth 29.2deg Risk 0.89</desc></wpt>
+  <wpt lat="27.47207" lon="85.91727"><ele>1840.4</ele><name>HAZARD_32_INITIATION</name><desc>Radius 90.0m Azimuth 41.6deg Risk 0.89</desc></wpt>
+  <wpt lat="27.47342" lon="85.91583"><ele>1840.9</ele><name>HAZARD_33_INITIATION</name><desc>Radius 90.0m Azimuth 51.8deg Risk 0.89</desc></wpt>
+  <trk><name>Compiled Mountain Corridor</name><trkseg>
+    <trkpt lat="27.44698" lon="85.91594"><ele>1102.1</ele></trkpt>
+    <trkpt lat="27.44801" lon="85.91697"><ele>1153.6</ele></trkpt>
+    <trkpt lat="27.44905" lon="85.91801"><ele>1124.5</ele></trkpt>
+    <trkpt lat="27.45008" lon="85.91904"><ele>1119.2</ele></trkpt>
+    <trkpt lat="27.45112" lon="85.92008"><ele>1125.6</ele></trkpt>
+    <trkpt lat="27.45215" lon="85.92111"><ele>1126.3</ele></trkpt>
+    <trkpt lat="27.45319" lon="85.92215"><ele>1161.1</ele></trkpt>
+    <trkpt lat="27.45422" lon="85.92318"><ele>1242.3</ele></trkpt>
+    <trkpt lat="27.45526" lon="85.92422"><ele>1274.1</ele></trkpt>
+    <trkpt lat="27.45629" lon="85.92525"><ele>1403.1</ele></trkpt>
+    <trkpt lat="27.45732" lon="85.92628"><ele>1541.7</ele></trkpt>
+    <trkpt lat="27.45836" lon="85.92732"><ele>1541.7</ele></trkpt>
+    <trkpt lat="27.45939" lon="85.92835"><ele>1668.0</ele></trkpt>
+    <trkpt lat="27.46043" lon="85.92939"><ele>1765.4</ele></trkpt>
+    <trkpt lat="27.46146" lon="85.93042"><ele>1826.3</ele></trkpt>
+    <trkpt lat="27.4625" lon="85.93146"><ele>1826.3</ele></trkpt>
+    <trkpt lat="27.46353" lon="85.93249"><ele>1850.3</ele></trkpt>
+    <trkpt lat="27.46457" lon="85.93353"><ele>1842.7</ele></trkpt>
+    <trkpt lat="27.4656" lon="85.93456"><ele>1810.1</ele></trkpt>
+    <trkpt lat="27.46664" lon="85.9356"><ele>1810.1</ele></trkpt>
+    <trkpt lat="27.46767" lon="85.93663"><ele>1757.1</ele></trkpt>
+    <trkpt lat="27.4687" lon="85.93766"><ele>1687.6</ele></trkpt>
+    <trkpt lat="27.46974" lon="85.9387"><ele>1632.3</ele></trkpt>
+    <trkpt lat="27.47077" lon="85.93973"><ele>1549.4</ele></trkpt>
+    <trkpt lat="27.47181" lon="85.94077"><ele>1520.5</ele></trkpt>
+    <trkpt lat="27.47284" lon="85.9418"><ele>1440.9</ele></trkpt>
+    <trkpt lat="27.47388" lon="85.94284"><ele>1407.9</ele></trkpt>
+    <trkpt lat="27.47491" lon="85.94387"><ele>1365.4</ele></trkpt>
+    <trkpt lat="27.47595" lon="85.94491"><ele>1331.6</ele></trkpt>
+    <trkpt lat="27.47698" lon="85.94594"><ele>1329.4</ele></trkpt>
+  </trkseg></trk>
+</gpx>
